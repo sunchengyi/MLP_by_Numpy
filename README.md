@@ -6,3 +6,6 @@ And by stacking "cDense", class "cMLP_Model" can implement the MLP model for cla
 with adam or stochastic gradient optimizer.
 
 Two activation functions, "relu" and "softmax", are implemented. 
+
+In "main.py", the classes and functions in "cMLP.py" are imported to implement
+a 3-classes classifiction model.
