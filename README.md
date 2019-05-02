@@ -8,4 +8,4 @@ with adam or stochastic gradient optimizer.
 Two activation functions, "relu" and "softmax", are implemented. 
 
 In "main.py", the classes and functions in "cMLP.py" are imported to implement
-a 3-classes classifiction model.
+a 3-class classifiction model.
